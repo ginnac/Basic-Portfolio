@@ -98,6 +98,7 @@ section{
 
 .main-content{
     margin:27px 35px 27px 35px;
+    
 
 
 }
@@ -200,3 +201,34 @@ p{
     
 }
 
+.contact-labels{
+    color:#777777;
+    margin-right:96%;
+
+}
+
+#contact-box, #contact-box1, #contact-box-2{
+width:96%;
+overflow: hidden;
+margin-top: 5px;
+margin-bottom: 7px;
+border:solid #777777;
+border-width: thin;
+
+
+}
+
+#contact-box,#contact-box1{
+    height:25px;
+}
+
+#contact-box-2{
+    height:120px;
+}
+
+#submit{
+    color:#ffffff;
+    background-color: #4aaaa5;
+    border:none;
+    padding:10px 25px
+}
