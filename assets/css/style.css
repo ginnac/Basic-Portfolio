@@ -66,6 +66,7 @@ a{
 #about{
     margin-right:14px;
 }
+
 #portfolio-box{
     display:inline;
     border-right-style:solid;
@@ -73,6 +74,9 @@ a{
     border-right-color:#ededed;
     border-left-color:#ededed;  
     border-width: 0.01mm;
+}
+#portfolio-box:hover{
+    background-color:#dddddd;
 }
 #contact{
     margin-left: 14px;
@@ -139,4 +143,18 @@ p{
     margin-top: 18px;
     margin-bottom: 18px;
 
+}
+
+.copyright{
+    text-align: center;
+    margin-top:50px;
+    color:#dddddd;
+    
+}
+
+.link-box{
+    background-color: #4aaaa5
+}
+.portfolio-item{
+    color:#ffffff;
 }
