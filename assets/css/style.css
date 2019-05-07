@@ -118,7 +118,6 @@ section{
 footer{
     background-color: #666666;
     font-display: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin-top:;
     height:80px;
     border-top:solid #4aaaa5 8px;
     clear:both;
@@ -210,7 +209,6 @@ p{
     margin-right:20px;
    
 }
-}
 
 .link-box::before{
     content:"";
@@ -220,14 +218,7 @@ p{
     
 }
 
-#game-pic::after{
- 
-   
-}
 
-.portfolio-item::after{
-    
-}
 
 .contact-labels{
     color:#777777;
