@@ -12,11 +12,17 @@ header{
    width:100%
 }
 
+#uno-box{
+    width:960px;
+    height:100px;
+    margin:0 auto;
+}
+
 #name1{
     height:100px;
     background-color: #4aaaa5;
     float:left;
-    margin-left:480px;
+
 }
 #name{
     float:left;
@@ -28,14 +34,13 @@ header{
 }
 
 nav{
-    margin-right:480px;
+    
     float:right;
     
     
 }
 
 nav::before{
-    clear: both;
     margin-top:40px;
     display: block;
     content:"";
@@ -80,7 +85,8 @@ a{
 }
 .box:hover{
     background-color:#dddddd;
-    height: 20px;
+    height: 30px;
+    border:solid thin #4aaaa5;
 }
 #contact{
     padding-right:14px;
