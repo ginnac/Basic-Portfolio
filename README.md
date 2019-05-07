@@ -1,2 +1,2 @@
-# Basic-Portfolio
+# basic-portfolio
 Homework # 1
